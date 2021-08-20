@@ -8,7 +8,6 @@
 <p align="left">
 
 <a href="linkedin.com/in/furkan-yunus-aa182117a"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-<a href="https://discord.gg/@me"><img alt="Discord " title="Discord " height="32" width="32" src="assets/discord.svg"></a>
 </p>
 
 ### Skills
